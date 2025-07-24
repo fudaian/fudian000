@@ -14,20 +14,6 @@ const heroes = {
             '短刀'
         ]
     },
-    sage: {
-        name: '贤智',
-        image: '/fudian000/sage.jpg',
-        skills: [
-            '治疗之球：治疗自己或队友',
-            '守护之壁：创建一道屏障',
-            '冰封陷阱：放置一个陷阱，敌人触发后会被冻结',
-            '安息：复活一名倒下的队友'
-        ],
-        items: [
-            '标准手枪',
-            '短刀'
-        ]
-    },
     heimeng: {
         name: '黑梦',
         image: '/udian000/img-hm.webp',
