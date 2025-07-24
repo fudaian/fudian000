@@ -2,7 +2,7 @@
 const heroes = {
     jett: {
         name: '捷风',
-        image: '/fudain000/img-jf.webp',
+        image: '/fudian000/img-jf.webp',
         skills: [
             '疾风步：快速冲刺一段距离',
             '乘风：短暂飞行',
@@ -30,17 +30,12 @@ const heroes = {
     },
     heimeng: {
         name: '黑梦',
-        image: 'fudain000/img-hm.webp',
+        image: '/udian000/img-hm.webp',
         skills: [
-            '疾风步：快速冲刺一段距离',
-            '乘风：短暂飞行',
-            '闪流：扔出一个闪光飞镖',
-            '刀锋之舞：获得一把无限弹药的武士刀'
+       
         ],
         items: [
-            '标准手枪',
-            '短刀'
-        ]
+      
     },
 
     }
