@@ -90,7 +90,7 @@ if (window.location.pathname.includes('map-video.html')) {
         const map = mapSelect.value;
         const side = sideSelect.value;
         // 视频文件名格式示例：bind_attack.mp4
-        const videoSrc = `videos/${map}_${side}.mp4`; 
+        const videoSrc = `/fudian000/${map}_${side}.mp4`; 
         videoPlayer.src = videoSrc;
         videoPlayer.play().catch(error => {
             console.error('视频播放失败:', error);
